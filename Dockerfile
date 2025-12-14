@@ -1,5 +1,5 @@
-# FROM ghcr.io/metacubex/subconverter:latest
-FROM dzhuang/subconverter:latest
+FROM ghcr.io/metacubex/subconverter:latest
+# FROM dzhuang/subconverter:latest
 MAINTAINER ifAintAd <github.com/ifaintad>
 
 
